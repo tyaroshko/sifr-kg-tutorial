@@ -10,7 +10,7 @@ import jsonlines
 import psutil
 import tqdm
 
-import lib.ate as ate
+import ate_lib.ate as ate
 
 
 def process_file(

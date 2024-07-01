@@ -9,7 +9,7 @@ import pandas as pd
 import psutil
 from nltk.stem.porter import *
 
-import lib.thd as thd
+import ate_lib.thd as thd
 
 
 def do_ate_saturation(config=None, in_dir=None, out_thd=None):  #

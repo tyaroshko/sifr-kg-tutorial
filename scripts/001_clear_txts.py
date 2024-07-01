@@ -6,7 +6,7 @@ import time
 import fire
 import psutil
 
-import lib.cleartxt as cleartxt
+import ate_lib.cleartxt as cleartxt
 
 
 def do_clear_txt(config=None, rawtxtdir=None, cleartxtdir=None):
