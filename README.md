@@ -28,12 +28,7 @@ pip install -r requirements.txt
 
 3. Get the necessary data
 ```bash
-mkdir data
-# 2010.txt
-# ate_stopwords.csv
-# config.ini
-# noisy_terms.txt
-# conceptualization.txt
+bash download_data.sh
 ```
 
 
