@@ -2,6 +2,8 @@
 
 This repository contains the code and data for the tutorial on Scientific Knowledge Graphs at UCU SIFR.
 
+Link to the data for the tutorial: [Google Drive](https://drive.google.com/drive/folders/1wWWoEpfUTTugII0y35jK5U7HZs3pU6Yi)
+
 ### Environment Setup
 
 1. Clone the repository
